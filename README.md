@@ -1,68 +1,85 @@
-<!--## Hi there 👋
+# Minimal & Clean
+ 
+```md
 
+# Hi there! 👋
+ 
+I'm [Your Name], a [Your Role] passionate about [Your Interests].
+ 
+- 🔭 I’m currently working on **[Project Name]**
 
-**danishbilalansari/danishbilalansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **[Technology or Skill]**
 
-Here are some ideas to get you started:
+- 📫 How to reach me: **[Your Email or Socials]**
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+ 
+---
+ 
+# Professional & Detailed
+ 
+```md
 
-<div >
-  <img style="width:100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishbilalansari&theme=transparent"/>
-</div>
+# Hi there! 👋 I'm [Your Name]
+ 
+🚀 **About Me:**
 
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danishbilalansari&theme=transparent" alt="Repos per Language" style="width:32%" /> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danishbilalansari&theme=transparent" alt="Most Commit Language" style="width:32%" /> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danishbilalansari&theme=transparent" alt="Stats" style="width:32%" /> 
-</div>
+- 🎯 Full Stack Developer | Open Source Contributor | Tech Enthusiast
 
+- 💻 Working with **[Technologies]**
 
-## Goto Stack
+- 🔍 Interested in **[Fields of Interest]**
 
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- 🌱 Constantly learning **[New Skills]**
 
-## Programming Languages
+- 📫 Reach me at: **[Your Email or LinkedIn]**
+ 
+📊 **GitHub Stats:**
 
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+ 
+💬 **Let's connect!**
 
-## Frontend Technologies & Frameworks 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourusername)
 
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)  
+```
+ 
+---
+ 
+# Creative & Interactive
+ 
+```md
 
-[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+# Hey there! 👋 I'm [Your Name]
+ 
+![Banner](https://your-image-url.com/banner.png)
+ 
+```diff
 
-## Backend Technologies & Tools
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
++ 🚀 Tech Enthusiast
 
-[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/)
++ 💻 Full Stack Developer
 
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+- ❌ Coffee Hater
 
-## Databases and SQL
+```
+ 
+📌 **Pinned Projects:**
 
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+- 🔥 [Project 1](https://github.com/yourusername/project1)
 
+- 💡 [Project 2](https://github.com/yourusername/project2)
+ 
+🎯 **Fun Facts:**
 
-## Contacts
-[![WhatsApp](https://img.shields.io/static/v1?message=WHATSAPP&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/+923314313183)
-[![LinkedIn](https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge)](https://pk.linkedin.com/in/danish-bilal-ansari-5596a1b3)
+- 🏆 Always open to new challenges
+
+- 🎸 Plays the guitar
+
+- 🎮 Enjoys gaming
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+
+ 
