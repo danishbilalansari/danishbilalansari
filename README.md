@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,visualstudio,vscode,rabbitmq,graphql,docker,sqlite,postgres,angular,react,html,jquery,css,bootstrap,js,ts,postman,powershell&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,visualstudio,vscode,rabbitmq,graphql,docker,sqlite,postgres,angular,react,html,jquery,css,bootstrap,js,ts,postman,powershell&theme=dark&perline=5)](https://skillicons.dev)
 
 <!--
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
