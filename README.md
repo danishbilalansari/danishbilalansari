@@ -57,4 +57,6 @@ Here are some ideas to get you started:
 [![WhatsApp](https://img.shields.io/static/v1?message=WHATSAPP&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/+923314313183)
 [![LinkedIn](https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge)](https://pk.linkedin.com/in/danish-bilal-ansari-5596a1b3)
 
-![snake gif](https://github.com/danishbilalansari/danishbilalansari/blob/output/github-snake.svg)
+<div align="center">
+  ![snake gif](https://github.com/danishbilalansari/danishbilalansari/blob/output/github-snake.svg)
+</div>
