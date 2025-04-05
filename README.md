@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![image alt](https://github.com/danishbilalansari/danishbilalansari/blob/e49e84f946f9ca69286a1b2bfc44d8c04ec4e64a/Github-Banner.png)
 
-
-<div >
+<div>
   <img style="width:100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishbilalansari&theme=transparent"/>
 </div>
 
