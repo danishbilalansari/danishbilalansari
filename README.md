@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi 👋 I'm Danish Bilal
+## Hi 👋, I'm Danish Bilal
 
 ![image alt](https://github.com/danishbilalansari/danishbilalansari/blob/e49e84f946f9ca69286a1b2bfc44d8c04ec4e64a/Github-Banner.png)
 
-<div>
-I am a Lead Developer with over a decade of experience in comprehensive software development focusing on fintech, logistics, and airline reservation applications. Renowned for extensive client/server side development using the .NET technology stack, I have a proven expertise in creating, maintaining, integrating, and deploying various financial suites. I am well-versed in JavaScript, jQuery, C#, .Net MVC/.Net Core, RestAPI's, Angular, React, Azure DevOps, Azure Functions, Microservices and Xamarin. My professional journey includes documenting program codes per established company standards, developing and rigorously testing data to validate program logic, and making necessary program revisions based on test results. I am a versatile professional who employs creative problem-solving strategies in navigating complex technical challenges.
-</div>
+<p align="justify">
+I am a Lead Developer with over a decade of experience in comprehensive software development focusing on fintech, logistics, and airline reservation applications. Renowned for extensive client/server side development using the .NET technology stack, I have a proven expertise in creating, maintaining, integrating, and deploying various financial suites, freight solutions and avaiate booking systems. I am well-versed in C#, .Net MVC/Core, RestAPI(s), Html, JavaScript, jQuery, Angular, React, Azure DevOps, Azure Functions, Microservices, RabbitMQ and Xamarin. My professional journey includes documenting program codes per established company standards, developing and rigorously testing data to validate program logic, and making necessary program revisions based on test results. I am a versatile professional who employs creative problem-solving strategies in navigating complex technical challenges.
+</p>
 
 <div>
   <img style="width:100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishbilalansari&theme=transparent"/>
