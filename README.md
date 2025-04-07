@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <img src="https://github.com/danishbilalansari/danishbilalansari/blob/4f36a0bbc54fc2b2f111f0ceb234b82e3a9013eb/Images/hello-1.png" alt="Hi" width="50" style="vertical-align: middle; line-height: 50px;"> I'm Danish Bilal
+## <img src="https://github.com/danishbilalansari/danishbilalansari/blob/d80f5633ed51cf8ee37912dff23ef5c82b88280a/Images/hello.png" alt="Hello" width="50" style="vertical-align: middle; line-height: 50px;"> I'm Danish Bilal
 
 <!--## 👋 Hi, I'm Danish Bilal-->
 
