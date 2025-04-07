@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </div>
 
 
-## Tech Stack
+## 🛠 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,visualstudio,vscode,rabbitmq,graphql,docker,sqlite,postgres,angular,react,html,jquery,css,bootstrap,materialui,js,ts,postman,powershell&theme=light)](https://skillicons.dev)
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 [![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 -->
 
-## Socials
+## 🌐 Socials
 [![WhatsApp](https://img.shields.io/static/v1?message=WHATSAPP&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/+923314313183)
 [![LinkedIn](https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge)](https://pk.linkedin.com/in/danish-bilal-ansari-5596a1b3)
 
