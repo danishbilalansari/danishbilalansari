@@ -20,8 +20,17 @@ Here are some ideas to get you started:
 ![image alt](https://github.com/danishbilalansari/danishbilalansari/blob/e49e84f946f9ca69286a1b2bfc44d8c04ec4e64a/Github-Banner.png)
 
 <p align="justify">
-I am a Full Stack Developer with over a decade of experience in comprehensive software development focusing on fintech, logistics, and airline reservation applications. Renowned for extensive client/server side development using the .NET technology stack, I have a proven expertise in creating, maintaining, integrating, and deploying various financial suites, freight solutions and avaiate booking systems. I am well-versed in C#, .Net MVC/Core, RestAPI(s), Html, JavaScript, jQuery, Angular, React, Azure DevOps, Azure Functions, Microservices, RabbitMQ and Xamarin. My professional journey includes documenting program codes per established company standards, developing and rigorously testing data to validate program logic, and making necessary program revisions based on test results. I am a versatile professional who employs creative problem-solving strategies in navigating complex technical challenges.
+  👨‍💻 <strong>Full Stack Developer</strong> with over a decade of experience in building and deploying software solutions across <strong>fintech</strong>, <strong>logistics</strong>, and <strong>airline reservation</strong> domains. My expertise spans both <strong>client-side</strong> and <strong>server-side</strong> development, primarily using the <strong>.NET technology stack</strong>. I have a proven track record in creating, maintaining, integrating, and deploying complex systems like <strong>financial suites</strong>, <strong>freight solutions</strong>, and <strong>aviation booking systems</strong>.
 </p>
+
+<p align="justify">
+  💻 Proficient in technologies like <strong>C#</strong>, <strong>.NET MVC/Core</strong>, <strong>REST APIs</strong>, <strong>HTML</strong>, <strong>JavaScript</strong>, <strong>jQuery</strong>, <strong>Angular</strong>, <strong>React</strong>, <strong>Azure DevOps</strong>, <strong>Azure Functions</strong>, <strong>Microservices</strong>, <strong>RabbitMQ</strong>, and <strong>Xamarin</strong>. I am adept at following best practices in <strong>programming standards</strong>, <strong>code documentation</strong>, and <strong>testing</strong> to ensure quality, stability, and scalability.
+</p>
+
+<p align="justify">
+  🛠️ Known for <strong>creative problem-solving</strong> and navigating complex technical challenges, I consistently strive for improvement and innovation. Passionate about continuous learning and collaboration in dynamic, fast-paced environments.
+</p>
+
 
 <div>
   <img style="width:100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishbilalansari&theme=transparent"/>
