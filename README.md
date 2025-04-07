@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi, I'm Danish Bilal
+## <img src="https://github.com/danishbilalansari/danishbilalansari/blob/4f36a0bbc54fc2b2f111f0ceb234b82e3a9013eb/Images/hello-1.png" alt="Hi" width="50" style="vertical-align: middle; line-height: 50px;"> I'm Danish Bilal
+
+<!--## 👋 Hi, I'm Danish Bilal-->
 
 ![image alt](https://github.com/danishbilalansari/danishbilalansari/blob/e49e84f946f9ca69286a1b2bfc44d8c04ec4e64a/Github-Banner.png)
 
@@ -43,7 +45,11 @@ Here are some ideas to get you started:
 </div>
 
 
-## 🛠 Tech Stack
+<!--## <img src="https://github.com/danishbilalansari/danishbilalansari/blob/4f36a0bbc54fc2b2f111f0ceb234b82e3a9013eb/Images/tech.png" alt="Tech" width="30" style="padding-top: 15px;" /> Tech Stack-->
+
+<!--## 🛠 Tech Stack-->
+
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,visualstudio,vscode,rabbitmq,graphql,docker,sqlite,postgres,angular,react,html,jquery,css,bootstrap,materialui,js,ts,postman,powershell&theme=light)](https://skillicons.dev)
 
@@ -68,7 +74,9 @@ Here are some ideas to get you started:
 [![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 -->
 
-## 🌐 Socials
+<!--## 🌐 Socials-->
+
+## Socials
 [![WhatsApp](https://img.shields.io/static/v1?message=WHATSAPP&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/+923314313183)
 [![LinkedIn](https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge)](https://pk.linkedin.com/in/danish-bilal-ansari-5596a1b3)
 
