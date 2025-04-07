@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 ![image alt](https://github.com/danishbilalansari/danishbilalansari/blob/e49e84f946f9ca69286a1b2bfc44d8c04ec4e64a/Github-Banner.png)
 
 <p align="justify">
-  👨‍💻 <strong>Full Stack Developer</strong> with over a decade of experience in building and deploying software solutions across <strong>fintech</strong>, <strong>logistics</strong>, and <strong>airline reservation</strong> domains. My expertise spans both <strong>client-side</strong> and <strong>server-side</strong> development, primarily using the <strong>.NET technology stack</strong>. I have a proven track record in creating, maintaining, integrating, and deploying complex systems like <strong>financial suites</strong>, <strong>freight solutions</strong>, and <strong>aviation booking systems</strong>.
+  <!--👨‍💻--><strong>Full Stack Developer</strong> with over a decade of experience in building and deploying software solutions across <strong>fintech</strong>, <strong>logistics</strong>, and <strong>airline reservation</strong> domains. My expertise spans both <strong>client-side</strong> and <strong>server-side</strong> development, primarily using the <strong>.NET technology stack</strong>. I have a proven track record in creating, maintaining, integrating, and deploying complex systems like <strong>financial suites</strong>, <strong>freight solutions</strong>, and <strong>aviation booking systems</strong>.
 </p>
 
 <p align="justify">
-  💻 Proficient in technologies like <strong>C#</strong>, <strong>.NET MVC/Core</strong>, <strong>REST APIs</strong>, <strong>HTML</strong>, <strong>JavaScript</strong>, <strong>jQuery</strong>, <strong>Angular</strong>, <strong>React</strong>, <strong>Azure DevOps</strong>, <strong>Azure Functions</strong>, <strong>Microservices</strong>, <strong>RabbitMQ</strong>, and <strong>Xamarin</strong>. I am adept at following best practices in <strong>programming standards</strong>, <strong>code documentation</strong>, and <strong>testing</strong> to ensure quality, stability, and scalability.
+  <!--💻-->Proficient in technologies like <strong>C#</strong>, <strong>.NET MVC/Core</strong>, <strong>REST APIs</strong>, <strong>HTML</strong>, <strong>JavaScript</strong>, <strong>jQuery</strong>, <strong>Angular</strong>, <strong>React</strong>, <strong>Azure DevOps</strong>, <strong>Azure Functions</strong>, <strong>Microservices</strong>, <strong>RabbitMQ</strong>, and <strong>Xamarin</strong>. I am adept at following best practices in <strong>programming standards</strong>, <strong>code documentation</strong>, and <strong>testing</strong> to ensure quality, stability, and scalability.
 </p>
 
 <p align="justify">
-  🛠️ Known for <strong>creative problem-solving</strong> and navigating complex technical challenges, I consistently strive for improvement and innovation. Passionate about continuous learning and collaboration in dynamic, fast-paced environments.
+  <!--🛠️-->Known for <strong>creative problem-solving</strong> and navigating complex technical challenges, I consistently strive for improvement and innovation. Passionate about continuous learning and collaboration in dynamic, fast-paced environments.
 </p>
 
 
