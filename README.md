@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi 👋, I'm Danish Bilal
+## 👋 Hi, I'm Danish Bilal
 
 ![image alt](https://github.com/danishbilalansari/danishbilalansari/blob/e49e84f946f9ca69286a1b2bfc44d8c04ec4e64a/Github-Banner.png)
 
